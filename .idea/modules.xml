@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MaterialRecents.iml" filepath="$PROJECT_DIR$/MaterialRecents.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-MaterialRecents.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-MaterialRecents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-MaterialRecents.app.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -1,8 +1,8 @@
 package tk.zielony.materialrecents;
 
 import android.os.Bundle;
-import android.support.v4.app.FragmentActivity;
-import android.support.v4.view.ViewPager;
+import androidx.fragment.app.FragmentActivity;
+import androidx.viewpager.widget.ViewPager;
 import android.view.View;
 import android.widget.Button;
 
